@@ -1,0 +1,12 @@
+1. Use PyGObject and GTK4 
+2. Build in MSYS2 UCRT64 environment
+3. the UI contains
+     a. an entry to input the youtube link
+	 b. a file location to be saved. With a file-save dialog
+	 c. a button to start download
+	 d. a progress bar to indicate the process
+4. the tasks
+	a. download the provided youtube vedio to the given path
+	b. convert the downloaded youtube file to mp3 with the given path and name
+	c. indicate when the conversion is done.
+5. generate an icon for the app
